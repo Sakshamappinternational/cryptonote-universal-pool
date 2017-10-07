@@ -27,7 +27,7 @@
                 "port": 3333,
                 "difficulty": 100,
                 "desc": "Low end hardware"
-            },imobicoin
+            },
             {
                 "port": 5555,
                 "difficulty": 2000,
