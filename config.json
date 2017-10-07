@@ -1,6 +1,6 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
+    "coin": "imobicoin",
+    "symbol": "IMOBI",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 240,
 
@@ -27,7 +27,7 @@
                 "port": 3333,
                 "difficulty": 100,
                 "desc": "Low end hardware"
-            },
+            },ducknote
             {
                 "port": 5555,
                 "difficulty": 2000,
