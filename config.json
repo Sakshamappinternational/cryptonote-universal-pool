@@ -2,7 +2,7 @@
     "coin": "imobicoin",
     "symbol": "IMOBI",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 240,
+    "coinDifficultyTarget": 120,
 
     "logging": {
         "files": {
